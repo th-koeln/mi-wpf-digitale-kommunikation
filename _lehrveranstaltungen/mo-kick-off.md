@@ -22,4 +22,4 @@ info: Erwartungsmanagement, Organisation und Einführung ins Modul und die damit
 ## Material
 - [Dokumentation aus dem WPF Kommunikationsdesign (wpf-dk)](../../download/0_guidelines%20Showcase.pdf)
 - [Motivbaukasten aus dem WPF Kommunikationsdesign (wpf-dk)](../../download/v1_motivbaukasten.pdf)
-- [Beispiel CJM](../../download/DB_Omnichannel_scenarios_holger_dc01.pdf)
+- [Beispiel CJM](../../download/beispiel-cjm.pdf)
