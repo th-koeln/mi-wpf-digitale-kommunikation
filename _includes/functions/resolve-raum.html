@@ -1,0 +1,14 @@
+{% assign raum = include.raum %}
+{% assign typ = include.typ %}
+
+
+{% assign typ_clean = typ | lstrip %}
+{% assign default-raum = site.data.typen[typ_clean].raum %}
+
+
+{% if raum == "" or raum == nil %}
+{% assign raum = default-raum %}
+{% endif %}
+
+
+

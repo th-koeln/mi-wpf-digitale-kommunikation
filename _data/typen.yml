@@ -1,0 +1,22 @@
+workshop:
+  name: Workshop
+  max-teilnehmer: 30
+  raum: 3.216, Medieninformatik Studio
+  
+projektarbeit:
+  name: Projektarbeit
+  max-teilnehmer: 30
+  raum: 3.216, Medieninformatik Studio
+  
+feedback:
+  name: Feedback & Support 
+  max-teilnehmer: 30
+
+pruefung:
+  name: Prüfung/ Präsentation 
+  max-teilnehmer: 30
+  
+praesentation:
+  name: Präsentation
+  raum: 3.216, Medieninformatik Studio
+  max-teilnehmer: 30

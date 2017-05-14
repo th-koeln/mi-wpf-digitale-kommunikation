@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+
+<section class="section">
+	<div class="container">
+		<h2 class="title is-1">Termine</h2>
+{% assign lehrveranstaltungen = (site.lehrveranstaltungen | sort: 'termin')) %}
+{% assign cards = "" | split: "" %}
+
+{% for lehrveranstaltung in lehrveranstaltungen %}
+{% if lehrveranstaltung.typ != "other" %}
+
+{% include termin.html lehrveranstaltung=lehrveranstaltung %}
+
+
+{% endif %}
+{% endfor %}
+	</div>
+</section>

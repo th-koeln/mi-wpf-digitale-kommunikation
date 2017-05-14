@@ -1,0 +1,13 @@
+{% assign time-correction = 7200 %}
+{% assign week-count = 0 %}
+{% assign starttime = 11 %}
+{% assign endtime = 18 %}
+{% assign difftime = endtime | minus: starttime %}
+
+{% for item in site.data.dates %}
+
+<div class="timetable">
+	<h2 class="title is-2">{{item.}}</h2>
+</div>
+
+{% endfor %}

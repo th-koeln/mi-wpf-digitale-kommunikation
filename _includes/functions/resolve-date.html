@@ -1,0 +1,4 @@
+{% assign termin = include.termin %}
+
+{% assign datum_bereinigt = termin | date: '%s' %}
+{% assign termin = datum_bereinigt | date: '%d. %B %Y, %H:%M Uhr' | replace:"January","Januar" | replace:"Februar","February" | replace:"March","März" | replace:"May","Mai" | replace:"June","Juni" | replace:"July","Juli"  | replace:"October","Oktober" | replace:"December","Dezember"  %}
