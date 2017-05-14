@@ -43,20 +43,26 @@ layout: default
 					{% endfor %}
 				</nav>
 			</div>
-
-			{% for navEle in tabtags %}
-			<div class="links is-tab-content column  is-{{navEle | slugify}} is-alle">
-				<div class="content">
-					{% for link in links %}
-						{% if link.tags contains navEle %}
-							<h2 class="title is-3" id="{{ link.id }}">{{ link.titel }}</h2>
-							<p>{{link.text}}<br><a href="{{link.src}}">{{link.src}}</a></p>
-							<p style="color: #999999;">{{link.tags | array_to_sentence_string: ''}}</p>
-						{% endif %}
+			
+			<div class="column is-three-quarter">
+				{% for link in links %}
+					{% assign tag-classes = "" | split:"|" %}
+					{% for tag in link.tags %}
+					{% assign new-tag = "is-" | append: (tag | slugify) %}
+					{% assign tag-classes = tag-classes | push: new-tag %}
 					{% endfor %}
+					
+					{% assign classes = tag-classes | join:" " %}
+				<div class="links is-tab-content {{classes}}  is-alle">
+					<div class="content">
+						<h2 class="title is-3" id="{{ link.id }}">{{ link.titel }}</h2>
+						<p>{{link.text}}<br><a href="{{link.src}}">{{link.src}}</a></p>
+						<p style="color: #999999;">{{link.tags | array_to_sentence_string: ''}}</p>
+					</div>
+					<hr>
 				</div>
+				{% endfor %}
 			</div>
-			{% endfor %}
 		</div>
 
 	</div>
