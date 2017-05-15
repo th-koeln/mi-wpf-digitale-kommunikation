@@ -33,3 +33,4 @@ info: Erwartungsmanagement, Organisation und Einführung ins Modul und die damit
 - [Motivbaukasten aus dem WPF Kommunikationsdesign (wpf-dk)](../../download/v1_motivbaukasten.pdf)
 - [Beispiel CJM](../../download/beispiel-cjm.pdf)
 - [Methodenkasten](../../download/methodenkasten-dk-klein.pdf)
+- [Aktueller Stand MI Redesign](https://dl.dropboxusercontent.com/u/2681197/fh/MI%20Redesign.zip)
