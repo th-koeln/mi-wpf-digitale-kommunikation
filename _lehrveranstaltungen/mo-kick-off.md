@@ -19,7 +19,17 @@ info: Erwartungsmanagement, Organisation und Einführung ins Modul und die damit
 - Was sollte zur ersten Präsentation am Dienstag vorliegen?
 - Was sollte zur Konzeptpräsentation am Freitag vorliegen?
 
+## Folgende Fragen sollten bis morgen beantwortet werden?
+- Was ist die Aufgabe der Organisationseinheit?
+- Was sind die "Produkte"?
+- Wer sind die "Kunden"?
+- Welche Kanäle und Formate werden derzeit bespielt?
+- Welche "Kunden" werden mit welchen Kanälen und Formaten bedient?
+- Wie sind die Rahmenbedingungen?
+- Welche Ziele werden verfolgt?
+
 ## Material
 - [Dokumentation aus dem WPF Kommunikationsdesign (wpf-dk)](../../download/0_guidelines%20Showcase.pdf)
 - [Motivbaukasten aus dem WPF Kommunikationsdesign (wpf-dk)](../../download/v1_motivbaukasten.pdf)
 - [Beispiel CJM](../../download/beispiel-cjm.pdf)
+- [Methodenkasten](../../download/methodenkasten-dk-klein.pdf)
