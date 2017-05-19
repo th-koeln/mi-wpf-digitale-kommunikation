@@ -26,6 +26,8 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 ## Ideen & Konzeptansätze
 - [Leeres Beispiel von Christian Noss](../../download/fr-praesentation-ideen.pdf)
 - [Konzept Miriam](../../download/Konzeptidee Ausarbeitung Miriam.pdf)
+- [Konzept NLI von Bastian Fuchshofer](../../download/Konzept NLI_Bastian_Fuchshofer.pdf)
+- [Präsentation NLI von Bastian Fuchshofer](../../download/Präsentation_NLI_Bastian_Fuchshofer.pdf)
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
