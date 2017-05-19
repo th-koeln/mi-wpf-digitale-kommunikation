@@ -34,7 +34,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Präsentation Jane Corleis](../../download/Jane_dk_Praesentation.pdf)
 - [PDF Jane Corleis](../../download/Jane_dk_PDF.pdf)
 - [Präsentation Niklas Fonseca Luis](../../download/Präsentation_Farben-Niklas_Fonseca_Luis.pdf)
-- [Konzept Niklas Fonseca Luis](../../download/Konzept_Farben-Niklas_Fonsec a_Luis.pdf)
+- [Konzept Niklas Fonseca Luis](../../download/Konzept_Farben-Niklas_Fonseca_Luis.pdf)
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
