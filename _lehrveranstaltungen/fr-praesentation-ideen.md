@@ -28,6 +28,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Konzept Miriam](../../download/Konzeptidee Ausarbeitung Miriam.pdf)
 - [Konzept NLI von Bastian Fuchshofer](../../download/Konzept NLI_Bastian_Fuchshofer.pdf)
 - [Präsentation NLI von Bastian Fuchshofer](../../download/Präsentation_NLI_Bastian_Fuchshofer.pdf)
+- [Präsentation Laura](../../download/Praesentation_ZSW_Laura Moellers.pdf)
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
