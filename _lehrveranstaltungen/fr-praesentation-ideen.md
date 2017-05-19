@@ -40,7 +40,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Jim Ekanem Präsentation](../../download/Präsi_Jim_Typographie.pdf )
 - [Jim Ekanem Konzept](../../download/Konzept_Jim_Typographie.pdf  )
 - [Dennis Dick Konzept](../../download/Bildsprache_Dennis_Dick.pdf )
-- [Nico Schnurbusch Konzept](../../download/WPF_Digitale Kommunikation_Präsentation_ZentralisierterKontakt.pdf )
+- [Nico Schnurbusch Konzept](../../download/Konzept_Nico Schnurbusch.pdf )
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
