@@ -29,6 +29,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Konzept NLI von Bastian Fuchshofer](../../download/Konzept NLI_Bastian_Fuchshofer.pdf)
 - [Präsentation NLI von Bastian Fuchshofer](../../download/Präsentation_NLI_Bastian_Fuchshofer.pdf)
 - [Präsentation Laura](../../download/Praesentation_ZSW_Laura Moellers.pdf)
+- [Konzept Daniel Holbach](../../download/Konzept - Oeffentliche Wirkung der Medieninformatik - Daniel Holbach.pdf)
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
