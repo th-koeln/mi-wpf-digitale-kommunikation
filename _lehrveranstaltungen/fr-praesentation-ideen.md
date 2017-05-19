@@ -32,6 +32,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Konzept Daniel Holbach](../../download/Konzept - Oeffentliche Wirkung der Medieninformatik - Daniel Holbach.pdf)
 - [Präsentation Daniel Holbach](../../download/Praesentation - Oeffentliche Wirkung der Medieninformatik - Daniel Holbach.pdf)
 - [Präsentation Jared Prüß](../../download/VisuelleObjekte-Praese.pdf)
+- [Konzept Jared Prüß](../../download/VisuelleObjekte.pdf)
 - [Präsentation Jane Corleis](../../download/Jane_dk_Praesentation.pdf)
 - [PDF Jane Corleis](../../download/Jane_dk_PDF.pdf)
 - [Präsentation Niklas Fonseca Luis](../../download/Präsentation_Farben-Niklas_Fonseca_Luis.pdf)
