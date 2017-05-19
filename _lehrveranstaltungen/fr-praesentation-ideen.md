@@ -36,6 +36,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Präsentation Niklas Fonseca Luis](../../download/Präsentation_Farben-Niklas_Fonseca_Luis.pdf)
 - [Konzept Niklas Fonseca Luis](../../download/Konzept_Farben-Niklas_Fonseca_Luis.pdf)
 - [Konzept Niklas Gruhn](../../download/Konzeptidee%20-%20Niklas%20Gruhn.pdf)
+- [Jim Ekanem Präsentation](../../download/Präsi_Jim_Typographie.pdf )
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
