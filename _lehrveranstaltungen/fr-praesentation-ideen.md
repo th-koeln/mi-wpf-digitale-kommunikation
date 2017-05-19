@@ -38,6 +38,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Konzept Niklas Gruhn](../../download/Konzeptidee%20-%20Niklas%20Gruhn.pdf)
 - [Jim Ekanem Präsentation](../../download/Präsi_Jim_Typographie.pdf )
 - [Jim Ekanem Konzept](../../download/Konzept_Jim_Typographie.pdf  )
+- [Dennis Dick Konzept](../../download/Bildsprache_Dennis_Dick.pdf )
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
