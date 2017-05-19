@@ -42,6 +42,7 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 - [Jim Ekanem Konzept](../../download/Konzept_Jim_Typographie.pdf  )
 - [Dennis Dick Konzept](../../download/Bildsprache_Dennis_Dick.pdf )
 - [Nico Schnurbusch Konzept](../../download/Konzept_Nico Schnurbusch.pdf )
+- [Nico Schnurbusch Präsentation](../../download/Präsentation_Nico Schnurbusch.pdf )
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
