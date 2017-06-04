@@ -4,7 +4,7 @@ kuerzel: pa
 verantwortlich: cn
 typ: projektarbeit
 pflicht: false
-termin: 2017-05-18 15:00
+termin: 2017-05-18 15:30
 published: true
 dauer: 45
 info: Erarbeitung der ersten Ideen und Konzeptansätze.
