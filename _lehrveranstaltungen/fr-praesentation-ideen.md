@@ -25,6 +25,25 @@ Dazu bitte ein kurzes PDF erstellen und hier verlinken. Das PDF bitte auch ausge
 
 ## Ideen & Konzeptansätze
 - [Leeres Beispiel von Christian Noss](../../download/fr-praesentation-ideen.pdf)
+- [Konzept Miriam](../../download/Konzeptidee Ausarbeitung Miriam.pdf)
+- [Präsentation Miriam](../../download/Miriam Präsentation.pdf)
+- [Konzept NLI von Bastian Fuchshofer](../../download/Konzept NLI_Bastian_Fuchshofer.pdf)
+- [Präsentation NLI von Bastian Fuchshofer](../../download/Präsentation_NLI_Bastian_Fuchshofer.pdf)
+- [Präsentation Laura](../../download/Praesentation_ZSW_Laura Moellers.pdf)
+- [Konzept Daniel Holbach](../../download/Konzept - Oeffentliche Wirkung der Medieninformatik - Daniel Holbach.pdf)
+- [Präsentation Daniel Holbach](../../download/Praesentation - Oeffentliche Wirkung der Medieninformatik - Daniel Holbach.pdf)
+- [Präsentation Jared Prüß](../../download/VisuelleObjekte-Praese.pdf)
+- [Konzept Jared Prüß](../../download/VisuelleObjekte.pdf)
+- [Präsentation Jane Corleis](../../download/Jane_dk_Praesentation.pdf)
+- [PDF Jane Corleis](../../download/Jane_dk_PDF.pdf)
+- [Präsentation Niklas Fonseca Luis](../../download/Präsentation_Farben-Niklas_Fonseca_Luis.pdf)
+- [Konzept Niklas Fonseca Luis](../../download/Konzept_Farben-Niklas_Fonseca_Luis.pdf)
+- [Konzept Niklas Gruhn](../../download/Konzeptidee%20-%20Niklas%20Gruhn.pdf)
+- [Jim Ekanem Präsentation](../../download/Präsi_Jim_Typographie.pdf )
+- [Jim Ekanem Konzept](../../download/Konzept_Jim_Typographie.pdf  )
+- [Dennis Dick Konzept](../../download/Bildsprache_Dennis_Dick.pdf )
+- [Nico Schnurbusch Konzept](../../download/Konzept_Nico Schnurbusch.pdf )
+- [Nico Schnurbusch Präsentation](../../download/Präsentation_Nico Schnurbusch.pdf )
 - bitte hier Ihre PDFs ergänzen
 
 ## Bewertung
